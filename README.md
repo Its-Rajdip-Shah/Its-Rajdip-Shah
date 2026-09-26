@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Rajdip Shah — first principles, systems, measurement" width="100%">
+</p>
+
 <div align="center">
 
 # Rajdip Shah
