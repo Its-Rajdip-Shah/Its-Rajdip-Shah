@@ -12,7 +12,7 @@ Software Engineering @ University of Sydney · Computer Engineering specialisati
 
 <br>
 
-```text id="d8qljj"
+```text
 > whoami
 
 I'm interested in problems where the abstraction eventually stops being enough.
@@ -25,11 +25,11 @@ Can we measure it?
 Can we build it differently?
 ```
 
-I enjoy taking complicated systems apart mentally, understanding the interactions that matter, and then putting that understanding to work.
+I like taking complicated systems apart, reasoning about the interactions that matter, and then building things to test whether my understanding survives contact with reality.
 
-That currently takes me through **ML and intelligent systems, low-level software, distributed computing, computer architecture, FPGA/RTL, performance engineering, and formal methods**.
+Most of what I'm exploring sits somewhere between **software, systems, and the machine underneath** — from ML systems and performance to computer architecture, FPGA/RTL, and formal methods.
 
-I'm still exploring where I want to go deepest.
+I'm still figuring out where I want to go deepest.
 
 That's half the fun.
 
@@ -37,23 +37,25 @@ That's half the fun.
 
 ### `~/right-now`
 
-```text id="ngklsd"
+```text
 learning   → machine learning from the fundamentals up
 research   → formal specifications × AI-generated software
-exploring  → ML systems · performance · distributed computing
+building   → tools · systems · experiments · products
 going low  → computer architecture · FPGA · systems programming
-building   → tools · products · experiments · things I wish existed
+measuring  → performance · failure modes · tradeoffs
 ```
-
-### `~/toolbox`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,lua,html,css,linux,git,docker,react,postgres&perline=14" />
-</p>
 
 <br>
 
-```text id="39y1nq"
+```text
+problem
+  ↓
+model ↔ software ↔ runtime ↔ hardware
+  ↑                    ↓
+  └──── measure ←──────┘
+```
+
+```text
 first principles  →  understand what the abstractions are hiding
 systems thinking  →  understand how the pieces affect each other
 experimentation   →  make a hypothesis and try to break it
