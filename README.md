@@ -6,15 +6,17 @@
 
 # Rajdip Shah
 
+</div>
+
+<img align="right" src="assets/workspace-pixel-art.png" alt="Rajdip's pixel-art workspace" width="38%">
+
 **I like understanding things from first principles, thinking in systems, and building things to find out if I'm right.**
 
 Software Engineering @ University of Sydney · Computer Engineering specialisation
 
 `systems` · `machine learning` · `computer architecture` · `performance` · `research`
 
-</div>
-
-<br>
+<br clear="right">
 
 ```text
 > whoami
@@ -40,9 +42,6 @@ I'm still figuring out where I want to go deepest.
 
 That's half the fun.
 
-<p align="center">
-  <img src="assets/workspace-pixel-art.png" alt="Rajdip's pixel-art workspace" width="82%">
-</p>
 
 <br>
 
