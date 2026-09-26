@@ -49,7 +49,7 @@ learning   → machine learning from the fundamentals up
 research   → formal specifications × AI-generated software
 building   → tools · systems · experiments · products
 going low  → computer architecture · FPGA · systems programming
-designing  → architectures · algorithms · capability unlocks · tradeoffs
+designing  → architectures · algorithms · hard constraints · tradeoffs
 ```
 
 <br>
