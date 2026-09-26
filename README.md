@@ -40,6 +40,10 @@ I'm still figuring out where I want to go deepest.
 
 That's half the fun.
 
+<p align="center">
+  <img src="assets/workspace-pixel-art.png" alt="Rajdip's pixel-art workspace" width="82%">
+</p>
+
 <br>
 
 ### `~/right-now`
