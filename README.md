@@ -2,65 +2,67 @@
 
 # Rajdip Shah
 
-### building intelligent systems — and learning what makes them fast.
+**I like understanding things from first principles, thinking in systems, and building things to find out if I'm right.**
 
-`ML Systems` · `GPU Computing` · `Distributed Systems` · `Computer Architecture` · `Applied ML`
+Software Engineering @ University of Sydney · Computer Engineering specialisation
+
+`systems` · `machine learning` · `computer architecture` · `performance` · `research`
 
 </div>
 
----
+<br>
 
-```text
-raj@github:~$ whoami
+```text id="d8qljj"
+> whoami
 
-Computer Engineering student interested in the boundary between
-machine learning, systems software, and the hardware underneath it.
+I'm interested in problems where the abstraction eventually stops being enough.
 
-I like going down the abstraction stack.
+Why is it slow?
+Why did it fail?
+What is actually happening underneath?
+What assumptions are we making?
+Can we measure it?
+Can we build it differently?
 ```
 
-### `> currently`
+I enjoy taking complicated systems apart mentally, understanding the interactions that matter, and then putting that understanding to work.
 
-```text
-learning    →  PyTorch · deep learning · model evaluation
-exploring   →  inference runtimes · KV caches · batching · quantisation
-going lower →  CUDA/Triton · parallel computing · performance engineering
-building    →  distributed systems · schedulers · systems software
-hardware    →  FPGA/RTL · computer architecture · hardware acceleration
-shipping    →  full-stack apps · developer tools · weird useful things
+That currently takes me through **ML and intelligent systems, low-level software, distributed computing, computer architecture, FPGA/RTL, performance engineering, and formal methods**.
+
+I'm still exploring where I want to go deepest.
+
+That's half the fun.
+
+<br>
+
+### `~/right-now`
+
+```text id="ngklsd"
+learning   → machine learning from the fundamentals up
+research   → formal specifications × AI-generated software
+exploring  → ML systems · performance · distributed computing
+going low  → computer architecture · FPGA · systems programming
+building   → tools · products · experiments · things I wish existed
 ```
 
-### `> languages & tools`
+### `~/toolbox`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,lua,verilog,linux,git,docker,react,ts,postgres&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,lua,html,css,linux,git,docker,react,postgres&perline=14" />
 </p>
 
-### `> how I think about engineering`
+<br>
 
-```text
-correctness > cleverness
-measure     > assume
-understand  > abstract away
-build       > just talk about building
+```text id="39y1nq"
+first principles  →  understand what the abstractions are hiding
+systems thinking  →  understand how the pieces affect each other
+experimentation   →  make a hypothesis and try to break it
+measurement       →  reality gets the final say
+engineering       →  build the damn thing
 ```
-
-I'm especially drawn to problems involving **performance, architecture, concurrency, inference, distributed computation, and hardware/software interaction**.
-
-Some things I build are serious technical experiments.
-
-Some are products.
-
-Some exist purely because I thought:
-
-> *surely I can build this.*
-
----
 
 <div align="center">
 
-**the interesting stuff is ↓**
-
-*repos, experiments, systems, and increasingly questionable engineering rabbit holes*
+### ↓ things I've built, broken, rebuilt, and learned from ↓
 
 </div>
