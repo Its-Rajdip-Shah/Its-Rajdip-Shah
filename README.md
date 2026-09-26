@@ -19,17 +19,20 @@ Software Engineering @ University of Sydney · Computer Engineering specialisati
 ```text
 > whoami
 
-I'm interested in problems where the abstraction eventually stops being enough.
+I'm interested in problems where the obvious solution isn't good enough.
 
-Why is it slow?
-Why did it fail?
-What is actually happening underneath?
-What assumptions are we making?
-Can we measure it?
-Can we build it differently?
+What would make this possible?
+What is preventing the current system from doing it?
+What architecture, algorithm, or systems-level change would unlock it?
+What tradeoffs does that introduce?
+Can we build it and make it actually work?
 ```
 
-I like taking complicated systems apart, reasoning about the interactions that matter, and then building things to test whether my understanding survives contact with reality.
+I like starting from a hard goal or constraint, understanding the parts of the existing system that actually matter, and designing the change that makes the goal achievable.
+
+Sometimes that means building a new architecture from scratch. More often, it means extending an existing one in a way that unlocks a capability it couldn't support before.
+
+The interesting part for me is the **solution design**: figuring out the architecture, algorithm, representation, or systems-level tradeoff that turns something difficult into something buildable — and then implementing it.
 
 Most of what I'm exploring sits somewhere between **software, systems, and the machine underneath** — from ML systems and performance to computer architecture, FPGA/RTL, and formal methods.
 
@@ -46,24 +49,16 @@ learning   → machine learning from the fundamentals up
 research   → formal specifications × AI-generated software
 building   → tools · systems · experiments · products
 going low  → computer architecture · FPGA · systems programming
-measuring  → performance · failure modes · tradeoffs
+designing  → architectures · algorithms · capability unlocks · tradeoffs
 ```
 
 <br>
 
 ```text
-problem
-  ↓
-model ↔ software ↔ runtime ↔ hardware
-  ↑                    ↓
-  └──── measure ←──────┘
-```
-
-```text
-first principles  →  understand what the abstractions are hiding
-systems thinking  →  understand how the pieces affect each other
-experimentation   →  make a hypothesis and try to break it
-measurement       →  reality gets the final say
+first principles  →  understand the real constraints before choosing a solution
+systems thinking  →  understand which interactions actually determine what is possible
+architecture      →  design the structure that makes the goal achievable
+experimentation   →  test whether the idea survives contact with reality
 engineering       →  build the damn thing
 ```
 
